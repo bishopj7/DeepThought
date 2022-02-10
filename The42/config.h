@@ -25,6 +25,6 @@
 #define DIODE_DIRECTION COL2ROW
 
 /* Set 0 if debouncing isn't needed */
-#define VIAL_KEYBOARD_UID {0x63, 0x52, 0xCD, 0xA7, 0x7B, 0x29, 0x49, 0x30}
+#define VIAL_KEYBOARD_UID {0xB1, 0xC1, 0x22, 0x38, 0x11, 0x15, 0x38, 0x09}
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 3 }

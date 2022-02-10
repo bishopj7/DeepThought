@@ -1,6 +1,3 @@
-
-
-
 #include "quantum.h"
 #include "The42.h"
 
