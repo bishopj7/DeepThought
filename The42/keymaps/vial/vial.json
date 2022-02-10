@@ -1,7 +1,7 @@
 {
     "name": "The42",
     "vendorId": "0xEEEE",
-    "productId": "0x2022",
+    "productId": "0xEDB5",
     "lighting": "none",
     "matrix": {
         "rows": 4,
